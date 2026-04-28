@@ -6,4 +6,7 @@ const App = () => {
   )
 }
 // test again coderabbit
+if (name = "admin") {
+  
+}
 export default App
